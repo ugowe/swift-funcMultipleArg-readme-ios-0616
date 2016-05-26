@@ -134,9 +134,12 @@ Try calling `planetDescription` in different ways. Recall that you can pass vari
 var planet = "Jupiter"
 var moons = 67
 planetDescription(planet, numberOfMoons: moons)
+// prints "There are 67 moons orbiting Jupiter"
+
 planet = "Mars"
 moons = 2
 planetDescription(planet, numberOfMoons: moons)
+// prints "There are 2 moons orbiting Mars"
 ```
 
 Now that's impressive! Play around with functions that take multiple arguments a while until you are really comfortable with them. There are six more planets in our solar system that you can use in your own examples!
