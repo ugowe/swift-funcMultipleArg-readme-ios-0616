@@ -18,7 +18,7 @@ Let's start, though, by reviewing how you create functions.
 
 Here's your goal: Write a function that will print the string "There are &lt;number&gt; moons orbiting &lt;planet&gt;." This will let you show off to our friend Neil DeGrasse Tyson how much you know about astronomy, _and_ write some Swift code in the meantime. Start by proving how much you know about Jupiter (hint: Jupiter has _67_ moons).
 
-![67 moons, ah ah ah](.images/count.jpg)
+![67 moons, ah ah ah](http://i.imgur.com/z9pyxDM.jpg)
 
 What's the simplest way to write your function?
 
